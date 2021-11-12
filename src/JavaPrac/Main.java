@@ -1,4 +1,4 @@
-package java;
+package JavaPrac;
 
 public class Main {
 
